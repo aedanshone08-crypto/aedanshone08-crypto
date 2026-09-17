@@ -1,5 +1,8 @@
 ## Hi my name is Aedan and I am currently studying Creative Computing level 3 year 2. I am improving on blender and coding within the gaming industry. After this course I am going into University level of computer science at Keele University to improve the game making skills further. 
 I could then use the degree to then go into masters part of computer science.
+I am interested in FPS (first person shooter) and RPG (role playing games) games.
+The areas I struggle with are making and coding cars for games.
+I usually use C sharp and C++ for the coding part of the game, Unity and Unreal Engine for the base game and use blender for modeling the objects and characters then import to Unreal engine or Unity. 
 
 <!--
 **aedanshone08-crypto/aedanshone08-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
