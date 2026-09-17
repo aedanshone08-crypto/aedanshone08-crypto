@@ -5,6 +5,7 @@ I could then use the degree to then go into masters part of computer science.
 I am interested in FPS (first person shooter) and RPG (role playing games) games.
 The areas I struggle with are making and coding cars for games.
 I usually use C sharp and C++ for the coding part of the game, Unity and Unreal Engine for the base game and use blender for modeling the objects and characters then import to Unreal engine or Unity. 
+In the far future I will try to make games independently to build up courage for larger games and projects like open world games and professional FPS games. 
 
 <!--
 **aedanshone08-crypto/aedanshone08-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
