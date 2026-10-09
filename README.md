@@ -10,3 +10,6 @@ In the far future I will try to make games independently to build up courage for
 I have 1 year of game design and making experience and half a year of website coding and a year of actual website design.
 I'm also good at modling objects for the game in case there none what I was looking for or look completly different.
 https://www.twitch.tv/aedansho can be used for showcase for making objects, games and showing game updates through live streams.
+
+I am specialised in C sharp and C++ for coding and Unity and Unreal engine for making the game.
+I also use Blender for making the objects.
